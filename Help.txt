@@ -1,0 +1,17 @@
+??? HELP ???
+
+git diff --word-diff // only diferences
+
+
+
+
+
+
+
+
+
+
+
+
+
+Made By Damian Kästner
